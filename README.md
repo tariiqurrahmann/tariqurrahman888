@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tariqurrahman888
+- 👀 I’m interested in Code ; UX/UI ; Photoshop
+- 🌱 I’m currently learning Coding ( C Programming )
